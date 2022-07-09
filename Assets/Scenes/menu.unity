@@ -964,6 +964,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   menu1: {fileID: 1673437692}
   menu2: {fileID: 1029449364}
+  nameEntryOutputText: {fileID: 1849042669}
 --- !u!1 &651530016
 GameObject:
   m_ObjectHideFlags: 0
